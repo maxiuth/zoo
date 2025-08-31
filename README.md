@@ -1,3 +1,5 @@
+# Visit https://maxiuth.github.io/zoo/ to see the page
+
 # Zoo
 
 The Fullstack Zoo just hired some zookeeper interns who will be helping out for the next few months. They've contracted your team to build a web page that will help the new interns identify each animal and understand their needs and behaviors.
